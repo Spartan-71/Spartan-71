@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Spartan-71
 - 👀 I’m interested in contributing to open-source projects in the AI/ML domain.
-- 🌱 I’m currently building AutoSchedulr.
+- 🌱 I’m currently building AutoCommitt.
 - 💞️ I’m looking to collaborate on some cool AI projects.
 - ⚡ Fun fact: I also find working with hardware stuff cool.
 
